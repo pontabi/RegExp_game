@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#displayed-text > span {
+  background-color: #22d3ee;
+}
